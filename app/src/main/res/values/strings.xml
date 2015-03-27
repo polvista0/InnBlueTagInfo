@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InnBlue Tag Info</string>
+
+    <string name="title_section1">Tag 1</string>
+    <string name="title_section2">Tag 2</string>
+    <string name="title_section3">Tag 3</string>
+
+    <string name="navigation_drawer_open">Select tag</string>
+    <string name="navigation_drawer_close">Close tag selection</string>
+
+    <string name="start_scan">Scan</string>
+
+    <string name="rename_tag">Rename tag</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
